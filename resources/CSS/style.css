@@ -1,0 +1,47 @@
+h1 {
+  font-family: "Vernada";
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-color: black
+}
+
+.Download {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Verdana";
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: "Verdana";
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.Copy {
+  font-family: "Verdana";
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
+
+.iphone {
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
